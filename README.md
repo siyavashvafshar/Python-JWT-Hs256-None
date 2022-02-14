@@ -13,7 +13,7 @@ https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/JSON_Web_Token
 
 Find With SAST Tools : SonarQube Develpoer Plan
 
-![Getting Started](20.png)
+
 
 
 
