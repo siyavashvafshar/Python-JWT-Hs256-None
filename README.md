@@ -14,6 +14,7 @@ https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/JSON_Web_Token
 Find With SAST Tools : SonarQube Develpoer Plan
 
 
+![Getting Started](22.png)
 
 
 
@@ -65,17 +66,11 @@ install from my dockerhub : https://hub.docker.com/r/mhnamadi/jwt-none
 6 . Add Null cipher header: eyJ0eXAiOiJKV1QiLCAiYWxnIjoiTk9ORSJ9. 
 
 
-
-
-
 ![Getting Started](12.png)
-
-
-
 
 ## Fix Guide :  
 
-
+https://curity.io/resources/learn/jwt-best-practices/
 
 ## Contributing : 
  
