@@ -62,9 +62,7 @@ install from my dockerhub : https://hub.docker.com/r/mhnamadi/jwt-none
 
 5 . Change ID 1 to 2 and add Null payload on https://jwt.io/ 
 
-
-6. Add Null cipher header: eyJ0eXAiOiJKV1QiLCAiYWxnIjoiTk9ORSJ9. 
-
+6 . Add Null cipher header: eyJ0eXAiOiJKV1QiLCAiYWxnIjoiTk9ORSJ9. 
 
 
 
